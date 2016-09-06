@@ -67,7 +67,7 @@ para produzir qualquer interface de apresentação que a sua aplicação possa
 precisar.
 
 Por exemplo, a view pode usar dados da model para renderizar uma página HTML que
-os conhtenha, ou um resultado formatado como XML::
+os contenha, ou um resultado formatado como XML::
 
     // No arquivo view, nós renderizaremos um 'elemento' para cada usuário.
     <?php foreach ($users as $user): ?>
